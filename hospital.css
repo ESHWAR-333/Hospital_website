@@ -1,0 +1,194 @@
+.navbar-image{
+    height: 60px;
+}
+.banner-section-background{
+    background-image: url("https://images01.nicepage.com/cb/dc/cbdcdba2c3d2a70b362554a6b4fd749a.jpeg");
+    background-size: cover;
+    height: 100vh;
+}
+.caurosel-images{
+    height: 100vh;
+}
+.covid-19-info{
+    background-color: orange;
+    height: 90px;
+    padding-left: 300px;
+}
+.covid-info-heading{
+    font-size:24px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.covid-19-description{
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+.covid-info-button{
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color:black;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+.wcu-image{
+    border-radius: 50px;
+}
+.wcu-heading{
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.wcu-description{
+    font-size: 19px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+.specialities-conatiner{
+   background-color: #ffff;
+   background-size: cover;
+}
+.sep-main-heading{
+    font-size: 34px;
+    font-family: "Oswald";
+    font-weight: 700;
+}
+.sep-main-description{
+    font-size: 19px;
+    font-family: "Oswald";
+    font-weight: 300;
+}
+.sepc1{
+    margin-bottom: 120px;
+}
+.sepc-image{
+    height:75px;
+}
+.sepc1-image{
+    height:75px;
+}
+.sepc2-image{
+    height:65px;
+}
+.sepc-heading{
+    font-size:24px;
+}
+.spec-main-image{
+    height: 100%;
+    width: 100%;
+}
+.medical-services-container{
+    background-image: url("https://cdn.apollohospitals.com/dev-apollohospitals/assets/images/loc-bg.svg");
+    background-size: cover;
+}
+.MS-image{
+    height:200px;
+    width: 350px;
+}
+.service-content{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.service-heading{
+    font-size: 24px;
+}
+.tesimonial-container{
+    background-image: url("https://cdn.apollohospitals.com/dev-apollohospitals/assets/images/icons/quote-rotate.svg");
+    background-color: white;
+    background-size: cover;
+}
+.testimonial-heaing{
+    font-size: 24px;
+}
+.testimonial-description{
+    font-size: 29px;
+ 
+}
+.testimonial-image{
+    height:540px;
+    width: 100%;
+}
+.patient-name{
+    font-size: 24px;
+    font-family: "roboto";
+    font-weight: 700;
+}
+.patient-description{
+    font-size: 15px;
+    font-family: "San-serif";
+    font-weight: 300;
+}
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.follow-us-icon-container {
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 16px;
+    border-radius: 40px;
+
+}
+.footer-section{
+    background-color: rgba(158, 163, 168, 0.24);
+    background-size: cover;
+}
+.footer-section-image{
+    height: 50px;
+}
+.about-us{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#666;
+}
+.footer-end{
+    background-color:#4c5254;
+    background-size: cover;
+    height: 5vh;
+}
+#nav-item1{
+    color: black;
+    font-size: 18px;
+
+}
+#nav-item2{
+    color: black;
+    font-size: 18px;
+
+}
+#nav-item3{
+    color: black;
+    font-size: 18px;
+}
+#nav-item4{
+    color: black;
+    font-size: 18px;
+
+}
+#nav-item5{
+    color: black;
+    font-size: 18px;
+
+}
+#nav-item6{
+    color: black;
+    font-size: 18px;
+
+}
